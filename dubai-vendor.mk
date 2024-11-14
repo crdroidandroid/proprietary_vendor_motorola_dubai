@@ -397,7 +397,6 @@ PRODUCT_PACKAGES += \
     libopencv \
     libopestriping \
     libos \
-    libpowercore \
     libqll10 \
     libqllengine \
     libremosaic_wrapper \
