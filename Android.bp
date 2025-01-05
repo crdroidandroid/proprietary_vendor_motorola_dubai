@@ -7869,6 +7869,7 @@ android_app_import {
         enabled: false,
     },
     privileged: true,
+    overrides: ["Aperture"],
     product_specific: true,
 }
 
